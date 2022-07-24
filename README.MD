@@ -2,7 +2,7 @@ Test.
 
 | name | Description |
 | ---- | ----------- |
-| authentication | *coming soon* |
+| [authentication](https://github.com/openshift/cluster-authentication-operator) | *coming soon* |
 | baremetal | *coming soon* |
 | cloud-controller-manager | *coming soon* |
 | cloud-credential | *coming soon* |
